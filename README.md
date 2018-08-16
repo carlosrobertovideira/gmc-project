@@ -1,3 +1,3 @@
 # gmc-project
 # função: Aluno 
-# Faculdade Impacta
+# Faculdade: Impacta
